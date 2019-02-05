@@ -1,0 +1,2 @@
+py-trello==0.14.0
+smartsheet-python-sdk==1.3.3
